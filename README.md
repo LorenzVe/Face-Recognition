@@ -61,6 +61,12 @@ Bearbeitet werden die Punkte (0) und (1) von der Aufgabenstellung zu * *Multimed
          JxrEncApp -i input.bmp -o output.jxr -q 10 
          ```
      - mehr bei [ubuntu-manpage](http://manpages.ubuntu.com/manpages/bionic/man1/JxrEncApp.1.html).
+   - **See also**:
+     - We have discovered some online converter tools which can be accessed with the following links
+       - [Onlineconvert](https://www.onlineconvert.com/jpg-to-jxr)
+       - [Aconvert](https://www.aconvert.com/image/jpg-to-jp2/)
+     - and a downloadable Software which covers all converte techniques before (converting to jxr does not work on Mac OSX)
+       - [NCH-Software](https://www.nchsoftware.com/imageconverter/index.html) 
 
 2. (1) Define face recognition system + dataset and learn to use it.
    - **Datasets**
