@@ -2,6 +2,8 @@
 Defining some Converters for JPEG, JPEG2000, JPEG-XR and a face recognition software
 
 ## Documentation 
+	
+### 14-March-2021:
 JPEG: JpegOptim, JPEG-recompress, ...
 Jpegoptim ist ein Kommandozeilen-Programm für Linux und Windows
  $jepegoptim --size=100k --dest=<Output> <image1.jpeg>
@@ -50,5 +52,3 @@ JPEG XR: JxrEncApp, NCH Software
 		- Example: JxrEncApp -i input.bmp -o output.jxr -q 10 
 
 http://manpages.ubuntu.com/manpages/bionic/man1/JxrEncApp.1.html
-	
-### 14-March-2021:
