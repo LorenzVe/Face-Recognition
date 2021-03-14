@@ -27,7 +27,7 @@ Jpegoptim ist ein Kommandozeilen-Programm für Linux und Windows
 
 https://github.com/tjko/jpegoptim
 https://www.thorsten-willert.de/optimierung/grafikoptimierung/jpeg-dateien-optimieren-mit-jpegoptim
-mogrify -extent 300x100 -gravity Center image.jpg
+
 
 JPEG2000: OpenJPEG (opj_compress, opj_decompress)
 	opj_compress:
