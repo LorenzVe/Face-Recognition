@@ -64,7 +64,7 @@ Bearbeitet werden die Punkte (0) und (1) von der Aufgabenstellung zu * *Multimed
 
 2. (1) Define face recognition system + dataset and learn to use it.
    - **Datasets**
-     - The datasets can be found in directory dataset
+     - The datasets are locally stored.
      - We used the data downloaded from the following Websites (names are used to better identify between them for ourselves):
        - [Caltech](http://www.vision.caltech.edu/html-files/archive.html)
        - [Robotics](http://robotics.csie.ncku.edu.tw/Databases/FaceDetect_PoseEstimate.htm)
